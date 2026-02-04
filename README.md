@@ -1,4 +1,4 @@
-# Watchlist App -- Assignment
+# Watchlist App
 
 Build a small multi-page React app where users track movies they want to
 watch in a WatchList. The focus is on using **React Context** to manage shared state.
