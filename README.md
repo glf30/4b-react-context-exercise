@@ -18,10 +18,12 @@ The WatchList should be kept track of in Context.  The user should be able to ad
 ## Home Page
 -   Display a welcome message to the user.
 -   Show total movies, total watched, and total remaining.
+-   If there are no movies, display a message prompting the user to add a movie.
 
 ## Watchlist Page
 
 -   Display all movies with their details and watched status.
+-   If there are no movies, display a message like "List is empty"
 -   Toggle watched/unwatched and remove movies.
 
 ## Add Movie Page
